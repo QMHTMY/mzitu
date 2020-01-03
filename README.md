@@ -1,5 +1,5 @@
 ---------------
-# Compatile OS #
+# Compatible OS #
 ---------------
 	Mac OS
 	Unix-like OS
