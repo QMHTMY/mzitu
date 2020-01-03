@@ -20,6 +20,6 @@
 
 注意:请使用python3，python2已于2020.01.01正式退役。
 
-# 爬取图片小览 #
+# 主站图片小览 #
 
-![scrapy](https://s2.ax1x.com/2019/12/06/QJmRsK.md.png) 
+![mzitu.png](https://i.loli.net/2020/01/03/Eyme7fL35HGQbhw.png)
