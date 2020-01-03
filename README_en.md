@@ -1,25 +1,25 @@
-------------
-# 兼容系统 #
------------
+---------------
+# Compatile OS #
+---------------
 	Mac OS
 	Unix-like OS
 
-# 描述 #
-从[妹子图](https://www.mzitu.com/)网站下载所有妹子图片。
+# Description #
+Crawer for downloading pictures from [mzitu](https://www.mzitu.com/)。
 
-# 依赖 #
+# Dependency #
     # scrapy 
 	$ sudo pip3 install scrapy
 
-# 图片保存位置 #
-   到mzitu/settings.py中修改第13行处图片存储路径值
+# Save folder #
+   Modify  the save path in "mzitu/settings.py" line 12.
 
-# 使用 #
-	退回到项目主目录
+# Usage #
+	Under the mzitu/ directory
 	$ scrapy crawl mzitu
 
-注意:请使用python3，python2已于2020.01.01正式退役。
+Note:Please use python3.
 
-# 主站图片小览 #
+# View #
 
 ![mzitu.png](https://i.loli.net/2020/01/03/Eyme7fL35HGQbhw.png)
