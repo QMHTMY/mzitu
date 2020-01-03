@@ -5,6 +5,7 @@
 	Unix-like OS
 
 # Description #
+<li><a href="README_zh.md">中文版</a></li>
 Crawer for downloading pictures from [mzitu](https://www.mzitu.com/)。
 
 # Dependency #

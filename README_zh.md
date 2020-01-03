@@ -5,6 +5,7 @@
 	Unix-like OS
 
 # 描述 #
+<li><a href="README.md">English</a></li>
 从[妹子图](https://www.mzitu.com/)网站下载所有妹子图片。
 
 # 依赖 #
