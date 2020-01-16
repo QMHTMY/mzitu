@@ -1,6 +1,6 @@
 ### 兼容系统 
+- Linux 
 - Mac OS
-- Unix-like OS
 
 ### 描述 
 [[English](./README.md)] 从[妹子图](https://www.mzitu.com/)网站下载所有妹子图片。

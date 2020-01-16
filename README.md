@@ -1,6 +1,6 @@
 ### Compatible OS 
+- Linux 
 - Mac OS
-- Unix-like OS
 
 ### Description 
 [[中文版](./README_zh.md)] Crawer for downloading pictures from [mzitu](https://www.mzitu.com/).
